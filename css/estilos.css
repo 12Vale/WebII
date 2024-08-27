@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+}
+.caja{
+    margin: 100px;
+    padding: 50px;
+    width: 1000px;
+    height: 550px;
+    background-color: blue;
+}
+.caja1{
+    width: auto;
+    height: 450px;
+    padding: 50px;
+    background-color: yellow;
+}
+
+.caja2{
+    width: auto;
+    padding: 50px;
+    height: 350px;
+    background-color: chartreuse;
+}
+.caja3{
+    width: auto;
+    padding: 50px;
+    height: 250px;
+    background-color: olivedrab;
+}
+.caja4{
+    width: auto;
+    padding: 50px;
+    height: 150px;
+    background-color: red;
+}
+.caja5{
+    width: auto;
+    padding: 50px;
+    height: 50px;
+    background-color: gray;
+}
+.caja6{
+    width: auto;
+    padding: 10px;
+    height: 30px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
